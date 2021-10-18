@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="33.018mm" height="11.487mm" version="1.1" viewBox="0 0 33.018 11.487" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="200mm" height="69.589mm" version="1.1" viewBox="0 0 200 69.589" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <filter id="filter1186" x="-.00026525" y="-.00076245" width="1.0005" height="1.0015" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.0036471799"/>
@@ -14,27 +14,21 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g transform="translate(-461.18 16.899)">
-  <text x="120.17055" y="33.794273" fill="#000000" font-family="sans-serif" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="120.17055" y="33.794273" stroke-width=".26458"/></text>
+ <g transform="translate(-461.14 16.918)">
+  <text x="-1604.5408" y="290.1622" fill="#000000" font-family="sans-serif" font-size="64.11px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="-1604.5408" y="290.1622" stroke-width=".26458"/></text>
   <g fill="#fff">
-   <rect transform="matrix(.97688 0 0 1 68.575 -150.24)" x="418.84" y="139.43" width="16.84" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
-   <rect transform="matrix(.97688 0 0 1 68.575 -150.24)" x="401.9" y="139.43" width="15.947" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
-   <rect x="461.19" y="-9.4144" width="33" height="4" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
-   <g filter="url(#filter1186)" style="paint-order:stroke fill markers" aria-label="CALUMIX">
-    <path d="m463.78-11.897q-0.73581 0-1.3328-0.31931-0.59003-0.32625-0.93016-0.89546-0.3332-0.56921-0.3332-1.2842 0-0.71498 0.34014-1.2842 0.34013-0.56921 0.93016-0.88852 0.59698-0.32625 1.3328-0.32625 0.59697 0 1.0898 0.20825t0.83298 0.60391l-0.58309 0.54838q-0.52755-0.56921-1.2981-0.56921-0.49979 0-0.89546 0.22213-0.39567 0.21519-0.6178 0.60391-0.22213 0.38873-0.22213 0.88158 0 0.49285 0.22213 0.88157t0.6178 0.61086q0.39567 0.21519 0.89546 0.21519 0.77051 0 1.2981-0.57615l0.58309 0.55532q-0.34013 0.39567-0.83992 0.60391-0.49285 0.20825-1.0898 0.20825z" style="paint-order:stroke fill markers"/>
-    <path d="m469.63-13.091h-2.4295l-0.47896 1.1245h-0.93017l2.1866-4.8591h0.88851l2.1935 4.8591h-0.94405zm-0.29849-0.70804-0.91628-2.1241-0.90934 2.1241z" style="paint-order:stroke fill markers"/>
-    <path d="m471.68-16.825h0.9024v4.0955h2.5406v0.76357h-3.443z" style="paint-order:stroke fill markers"/>
-    <path d="m477.85-11.897q-1.0065 0-1.5688-0.56226-0.56226-0.56921-0.56226-1.6243v-2.7419h0.9024v2.7072q0 1.43 1.2356 1.43 1.2286 0 1.2286-1.43v-2.7072h0.88851v2.7419q0 1.0551-0.56226 1.6243-0.55532 0.56226-1.5618 0.56226z" style="paint-order:stroke fill markers"/>
-    <path d="m485.71-11.966-7e-3 -3.2209-1.5966 2.6655h-0.40261l-1.5966-2.6239v3.1792h-0.86075v-4.8591h0.74274l1.9298 3.2209 1.895-3.2209h0.74274l7e-3 4.8591z" style="paint-order:stroke fill markers"/>
-    <path d="m487.87-16.825h0.9024v4.8591h-0.9024z" style="paint-order:stroke fill markers"/>
-    <path d="m493.15-11.966-1.3189-1.8464-1.305 1.8464h-1.0273l1.8048-2.4781-1.7076-2.3809h1.0204l1.2425 1.7284 1.2286-1.7284h0.97875l-1.7007 2.3462 1.8256 2.5128z" style="paint-order:stroke fill markers"/>
-   </g>
-   <rect transform="matrix(.97688 0 0 1 68.576 -151.02)" x="433.56" y="140.91" width="2.1267" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
-   <rect transform="matrix(.97688 0 0 1 68.576 -151.02)" x="411.08" y="140.91" width="21.498" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
-   <rect transform="matrix(.97688 0 0 1 68.576 -151.02)" x="401.9" y="140.91" width="8.202" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
-   <rect transform="matrix(.97688 0 0 1 68.575 -150.11)" x="427.48" y="138.6" width="8.202" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
-   <rect transform="matrix(.97688 0 0 1 68.575 -150.11)" x="404.95" y="138.6" width="21.553" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
-   <rect transform="matrix(.97688 0 0 1 68.575 -150.11)" x="401.9" y="138.6" width="2.057" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(5.9173 0 0 6.0579 -1917 -824.68)" x="418.84" y="139.43" width="16.84" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(5.9173 0 0 6.0579 -1917 -824.68)" x="401.9" y="139.43" width="15.947" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(6.0574 0 0 6.0579 -2332.4 85.452)" x="461.19" y="-9.4144" width="33" height="4" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
+  </g>
+  <text transform="matrix(6.0574 0 0 6.0579 -2332.4 85.452)" x="460.88245" y="-11.966346" fill="#ffffff" filter="url(#filter1186)" font-family="sans-serif" font-size="6.9415px" stroke-linejoin="round" stroke-opacity="0" stroke-width=".5555" style="line-height:1.25;paint-order:stroke fill markers" xml:space="preserve"><tspan x="460.88245" y="-11.966346" fill="#ffffff" font-family="Montserrat" font-weight="600" stroke-linejoin="round" stroke-opacity="0" stroke-width=".5555" style="paint-order:stroke fill markers">CALUMIX</tspan></text>
+  <g fill="#fff">
+   <rect transform="matrix(5.9173 0 0 6.0579 -1917 -829.43)" x="433.56" y="140.91" width="2.1267" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(5.9173 0 0 6.0579 -1917 -829.43)" x="411.08" y="140.91" width="21.498" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(5.9173 0 0 6.0579 -1917 -829.43)" x="401.9" y="140.91" width="8.202" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(5.9174 0 0 6.0579 -1917 -823.9)" x="427.48" y="138.6" width="8.202" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(5.9174 0 0 6.0579 -1917 -823.9)" x="404.95" y="138.6" width="21.553" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(5.9174 0 0 6.0579 -1917 -823.9)" x="401.9" y="138.6" width="2.057" height=".35" filter="url(#filter1186)" style="paint-order:stroke fill markers"/>
   </g>
  </g>
 </svg>
