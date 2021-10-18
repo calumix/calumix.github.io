@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg996"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="hexagonal_pattern.svg">
+  <defs
+     id="defs990">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3114">
+      <stop
+         style="stop-color:#363636;stop-opacity:1"
+         offset="0"
+         id="stop3118" />
+      <stop
+         style="stop-color:#aaaaaa;stop-opacity:1"
+         offset="1"
+         id="stop3120" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3106"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.5875,0,1 @ F,0,0,1,0,1.5875,0,1 @ F,0,0,1,0,1.5875,0,1 @ F,0,0,1,0,1.5875,0,1 @ F,0,0,1,0,1.5875,0,1 @ F,0,0,1,0,1.5875,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="6"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3103"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1 @ F,0,0,1,0,10.583333,0,1"
+       unit="px"
+       method="bezier"
+       mode="F"
+       radius="40"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="clone_original"
+       linkeditem="#path1559"
+       method="d"
+       allow_transforms="true"
+       id="path-effect3099"
+       lpeversion="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3114"
+       id="linearGradient3116"
+       x1="-132.35625"
+       y1="107.45104"
+       x2="420.82281"
+       y2="107.45104"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52113536,0,0,1.3424643,43.805431,-275.75815)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.3281871"
+     inkscape:cx="95.135536"
+     inkscape:cy="345.80149"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata993">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.9959;fill:url(#linearGradient3116);fill-opacity:1;stroke-width:3.56498;paint-order:stroke fill markers"
+       id="rect3108"
+       width="288.28116"
+       height="508.07123"
+       x="-25.170086"
+       y="-385.54459"
+       transform="rotate(90)"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <path
+       id="path1559"
+       style="fill:#000000;fill-opacity:1;stroke-width:3.565;paint-order:stroke fill markers"
+       d="m -44.67297,15.870202 -15.294134,8.830072 a 2.7496307,2.7496307 0 0 1 -2.74963,0 l -15.294134,-8.830072 a 2.7496307,2.7496307 60 0 1 -1.374815,-2.38125 V -4.1711919 a 2.7496307,2.7496307 120 0 1 1.374815,-2.38125 l 15.294134,-8.8300721 a 2.7496306,2.7496306 2.3815343e-7 0 1 2.74963,0 l 15.294134,8.8300723 a 2.7496307,2.7496307 60 0 1 1.374815,2.38125 l 0,17.6601437 a 2.7496307,2.7496307 120 0 1 -1.374815,2.38125 z"
+       inkscape:path-effect="#path-effect3106"
+       inkscape:original-d="m -43.298155,15.076452 -18.043764,10.417572 -18.043764,-10.417572 0,-20.8351439 18.043764,-10.4175721 18.043764,10.4175723 z"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(19.126389,32.919527)"
+       id="use2973"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(38.252779,65.839053)"
+       id="use2975"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(57.379168,98.75858)"
+       id="use2977"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(76.505557,131.67811)"
+       id="use2979"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(95.631947,164.59763)"
+       id="use2981"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(114.75834,197.51716)"
+       id="use2983"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(133.88473,230.43669)"
+       id="use2985"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(38.252779)"
+       id="use2987"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(57.379168,32.919527)"
+       id="use2989"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(76.505557,65.839053)"
+       id="use2991"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(95.631947,98.75858)"
+       id="use2993"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(114.75834,131.67811)"
+       id="use2995"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(133.88473,164.59763)"
+       id="use2997"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(153.01111,197.51716)"
+       id="use2999"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(172.1375,230.43669)"
+       id="use3001"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(76.505557)"
+       id="use3003"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(95.631947,32.919527)"
+       id="use3005"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(114.75834,65.839053)"
+       id="use3007"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(133.88473,98.75858)"
+       id="use3009"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(153.01111,131.67811)"
+       id="use3011"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(172.1375,164.59763)"
+       id="use3013"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(191.26389,197.51716)"
+       id="use3015"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(210.39028,230.43669)"
+       id="use3017"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(114.75834)"
+       id="use3019"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(133.88473,32.919527)"
+       id="use3021"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(153.01111,65.839053)"
+       id="use3023"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(172.1375,98.75858)"
+       id="use3025"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(191.26389,131.67811)"
+       id="use3027"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(210.39028,164.59763)"
+       id="use3029"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(229.51667,197.51716)"
+       id="use3031"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(248.64306,230.43669)"
+       id="use3033"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(153.01111)"
+       id="use3035"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(172.1375,32.919527)"
+       id="use3037"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(191.26389,65.839053)"
+       id="use3039"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(210.39028,98.75858)"
+       id="use3041"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(229.51667,131.67811)"
+       id="use3043"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(248.64306,164.59763)"
+       id="use3045"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(267.76945,197.51716)"
+       id="use3047"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(286.89584,230.43669)"
+       id="use3049"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(191.26389)"
+       id="use3051"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(210.39028,32.919527)"
+       id="use3053"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(229.51667,65.839053)"
+       id="use3055"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(248.64306,98.75858)"
+       id="use3057"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(267.76945,131.67811)"
+       id="use3059"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(286.89584,164.59763)"
+       id="use3061"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(306.02223,197.51716)"
+       id="use3063"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(325.14862,230.43669)"
+       id="use3065"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(229.51667)"
+       id="use3067"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(248.64306,32.919527)"
+       id="use3069"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(267.76945,65.839053)"
+       id="use3071"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(286.89584,98.75858)"
+       id="use3073"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(306.02223,131.67811)"
+       id="use3075"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(325.14862,164.59763)"
+       id="use3077"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(344.27501,197.51716)"
+       id="use3079"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(363.4014,230.43669)"
+       id="use3081"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(267.76945)"
+       id="use3083"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(286.89584,32.919527)"
+       id="use3085"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(306.02223,65.839053)"
+       id="use3087"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(325.14862,98.75858)"
+       id="use3089"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(344.27501,131.67811)"
+       id="use3091"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(363.4014,164.59763)"
+       id="use3093"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(382.52779,197.51716)"
+       id="use3095"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path1559"
+       xlink:href="#path1559"
+       transform="translate(401.65418,230.43669)"
+       id="use3097"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+    <path
+       d="m -53.838405,21.161868 c -3.384856,1.954247 -7.563184,4.297696 -8.878329,3.538406 -12.550291,-7.245913 -16.668941,-9.692728 -16.668949,-11.211322 0,-14.4918268 0.05968,-19.2820895 1.374815,-20.0413939 12.550291,-7.2459131 16.728619,-9.5893621 18.043764,-8.8300721 12.550291,7.2459136 16.668941,9.6927279 16.668949,11.2113223 0,14.4918267 -0.05968,19.2820897 -1.374815,20.0413937 z"
+       id="use2971"
+       inkscape:path-effect="#path-effect3099;#path-effect3103"
+       inkscape:original-d="M 0 0"
+       inkscape:export-xdpi="499.92999"
+       inkscape:export-ydpi="499.92999" />
+  </g>
+</svg>
